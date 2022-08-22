@@ -17,7 +17,7 @@ While True
 
    If $farm Then
 	  MouseClick('left')
-	  Sleep(1000)
+	  Sleep(800)
    EndIf
 
    Sleep(50)
